@@ -1,0 +1,2 @@
+# Augmented-Deep-Reinforcement-Learning-for-the-Energy-Management-of-Microgrids
+This work proposes a two-phase augmented framework that combines deep reinforcement learning (DRL) with quadratic programming (QP). Initially in the first phase, the DRL algorithms identify feasible action regions; and then subsequently in the second phase, QP refines these discrete outputs into continuous, precise schedules.
